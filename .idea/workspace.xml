@@ -11,8 +11,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="27d5a582-c982-41fb-87c0-1225871715c5" name="默认的" comment="添加基础model">
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -94,7 +94,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="初始化目录" />
     <MESSAGE value="添加基础model" />
-    <option name="LAST_COMMIT_MESSAGE" value="添加基础model" />
+    <MESSAGE value="feat：添加说明" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat：添加说明" />
   </component>
   <component name="VgoProject">
     <integration-enabled>true</integration-enabled>
@@ -109,9 +110,9 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="740" y="274" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1610350167123" />
-    <state x="630" y="346" key="Vcs.Push.Dialog.v2" timestamp="1610369199408">
+    <state x="630" y="346" key="Vcs.Push.Dialog.v2" timestamp="1610369573816">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="630" y="346" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1610369199408" />
+    <state x="630" y="346" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1610369573816" />
   </component>
 </project>
