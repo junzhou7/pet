@@ -37,12 +37,11 @@ go env -w GOPROXY=https://goproxy.io,direct
 ### 4.1 目录结构
 
 
-    ├─server  	     （后端文件夹）
+    ├─server  	        （后端文件夹）
     │  ├─api            （API）
-    │  ├─config         （配置包）
+    │  ├─conf           （配置包）
     │  ├─core  	        （內核）
     │  ├─db             （数据库脚本）
-    │  ├─docs  	        （swagger文档目录）
     │  ├─global         （全局对象）
     │  ├─initialiaze    （初始化）
     │  ├─middleware     （中间件）
