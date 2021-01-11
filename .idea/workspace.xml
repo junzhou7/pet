@@ -10,8 +10,16 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="27d5a582-c982-41fb-87c0-1225871715c5" name="默认的" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="27d5a582-c982-41fb-87c0-1225871715c5" name="默认的" comment="初始化目录">
+      <change afterPath="$PROJECT_DIR$/api/cat.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/conf/config.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/config.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/global/global.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/initialize/gorm.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/middleware/jwt.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model/cat.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model/request/cat.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model/response/cat.go" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -84,6 +92,10 @@
       </map>
     </option>
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="初始化目录" />
+    <option name="LAST_COMMIT_MESSAGE" value="初始化目录" />
+  </component>
   <component name="VgoProject">
     <integration-enabled>true</integration-enabled>
     <environment>
@@ -97,9 +109,9 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="740" y="274" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1610350167123" />
-    <state x="630" y="346" key="Vcs.Push.Dialog.v2" timestamp="1610354264717">
+    <state x="630" y="346" key="Vcs.Push.Dialog.v2" timestamp="1610368940192">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="630" y="346" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1610354264717" />
+    <state x="630" y="346" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1610368940192" />
   </component>
 </project>
